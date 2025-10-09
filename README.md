@@ -1,0 +1,2 @@
+# javainone
+Core Java Practice
