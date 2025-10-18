@@ -1,4 +1,4 @@
-package systemdesign;
+package systemdesign.builder;
 
 public class SystemDesign {
     
