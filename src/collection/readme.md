@@ -1,0 +1,30 @@
+# operations
+- size
+    - empty
+- add
+    - at particular index
+    - at start
+    - at end
+    - add bulk
+    - bulk from a particular index
+- remove
+    - at particular index
+    - by Object
+    - first
+    - last
+    - bulk
+    - first occurance
+    - last occurance
+    - clear all data
+- set
+    - set at particular index, an Object value
+- existance
+    - check exists / contains
+- access
+    - by index
+    - get index by Object
+- equality
+- sort
+- compare
+- traversal
+

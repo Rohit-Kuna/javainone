@@ -1,0 +1,2 @@
+- Design method to clean strings "hdn   % hshd ^ 89" -> only alpha chars
+- 
